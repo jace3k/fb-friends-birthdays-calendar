@@ -1,5 +1,7 @@
-# fb-friends-birthdays-calendar
+# fb-friends-birthdays-calendar [outdated]
 Add friends birthday dates to Google Calendar
+
+Not working due to facebook update
 
 ### HOW IT WORKS
 1. Download fully scrolled page from Birthday Events from Facebook
